@@ -1,0 +1,34 @@
+body{
+  background-color: rgb(67, 67, 175);
+ font: normal 15pt Arial;
+}
+
+header{
+  display: flex;
+ justify-content: center;
+ color: white;
+}
+
+section{
+  background-color: white;
+  padding: 220px;
+  width: 500px;
+  margin: auto;
+  border-radius: 20px;
+}
+
+footer{
+  color: white;
+ display: flex;
+ justify-content: center;
+ font-style: italic;
+}
+
+img{
+  width:500px;
+  border-radius: 350px;
+}
+#msg{
+  padding: 15px;
+  text-align: center;
+}
